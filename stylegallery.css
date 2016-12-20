@@ -1,0 +1,38 @@
+body, header, main, aside, footer {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background: url('http://usiter.com/uploads/20101010/stukaturka_tekstury_5271.jpg') ;
+}
+img {
+	width: 20%;
+}
+#heading
+{
+	text-align: center;
+}
+nav{
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	margin-top: 90px;
+
+}
+ul {
+	text-decoration: Helvetica 20px;
+	text-align: center;
+	padding: 4px;
+	margin: 0px;
+}
+li {
+	display: inline-block;
+	width: 60px;
+	height: 20px;
+	border: 1px solid black;
+	text-align: center;
+	padding: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: 0px;
+	border-bottom: 0px;
+}
